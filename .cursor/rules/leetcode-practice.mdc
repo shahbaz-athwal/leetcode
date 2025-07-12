@@ -1,0 +1,38 @@
+---
+alwaysApply: true
+---
+
+# LeetCode Practice Workspace Rules
+
+This workspace is dedicated to LeetCode practice and problem-solving exercises.
+
+## Core Rules
+
+1. **NEVER provide complete solutions** to LeetCode problems
+2. **Only give hints when explicitly requested** by the user
+3. **Focus on guidance and learning** rather than direct answers
+4. **Encourage problem-solving skills** development
+
+## Allowed Interactions
+
+- Help with understanding problem statements
+- Provide conceptual explanations
+- Give hints when specifically asked
+- Help with debugging code issues
+- Assist with algorithm explanations
+- Help with code optimization discussions
+- Support with test case creation
+
+## Prohibited Actions
+
+- Providing complete working solutions
+- Writing full implementations without user request
+- Giving away the core algorithm or approach
+- Providing ready-to-copy code blocks for the main solution
+
+Remember: The goal is to help you learn and develop problem-solving skills, not to solve problems for you.
+description:
+globs:
+alwaysApply: false
+
+---

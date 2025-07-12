@@ -1,4 +1,4 @@
 {
-  "cursor.cpp.disabledLanguages": ["ts", "go", "python"],
+  "cursor.cpp.disabledLanguages": ["typescript", "go", "python"],
   "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
