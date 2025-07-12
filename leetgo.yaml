@@ -1,0 +1,24 @@
+# Leetgo configuration file, see more at https://github.com/j178/leetgo
+author: shahbaz_athwal
+language: en
+code:
+  lang: ts
+  filename_template: '{{ .Id | padWithZero 4 }}{{ if .SlugIsMeaningful }}.{{ .Slug }}{{ end }}'
+  separate_description_file: true
+  modifiers:
+    - name: removeUselessComments
+  go:
+    out_dir: go
+    modifiers:
+      - name: removeUselessComments
+      - name: changeReceiverName
+      - name: addNamedReturn
+      - name: addMod
+  python3:
+    out_dir: python
+    executable: python3
+
+leetcode:
+  site: https://leetcode.com
+  credentials:
+    from: cookies
