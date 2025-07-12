@@ -3,8 +3,8 @@ author: shahbaz_athwal
 language: en
 code:
   lang: ts
-  filename_template: '{{ .Id | padWithZero 4 }}{{ if .SlugIsMeaningful }}.{{ .Slug }}{{ end }}'
-  separate_description_file: true
+  filename_template: '{{ .Id  }}{{ if .SlugIsMeaningful }}-{{ .Slug }}{{ end }}'
+  separate_description_file: false
   modifiers:
     - name: removeUselessComments
   go:
@@ -22,3 +22,4 @@ leetcode:
   site: https://leetcode.com
   credentials:
     from: cookies
+  
