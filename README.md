@@ -26,7 +26,7 @@
 
 ## 2. Binary Search
 
-- [ ] 704: [Binary Search](https://leetcode.com/problems/binary-search/) – Easy
+- [x] 704: [Binary Search](https://leetcode.com/problems/binary-search/) – Easy
 - [ ] 35: [Search Insert Position](https://leetcode.com/problems/search-insert-position/) – Easy
 - [ ] 69: [Sqrt(x)](https://leetcode.com/problems/sqrtx/) – Easy
 - [ ] 153: [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) – Medium
