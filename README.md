@@ -6,7 +6,7 @@
 - [x] 121: [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) – Easy
 - [x] 217: [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) – Easy
 - [x] 238: [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) – Medium 🔴
-- [ ] 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) – Easy
+- [x] 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) – Easy
 - [ ] 152: [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) – Medium
 - [ ] 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) – Medium
 - [ ] 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/) – Medium
