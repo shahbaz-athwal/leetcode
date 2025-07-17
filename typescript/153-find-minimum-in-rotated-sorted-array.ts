@@ -62,7 +62,7 @@ function findMin(nums: number[]): number {
     const mid = left + Math.floor((right - left) / 2);
     if (nums[right] > nums[mid]) {
       right = mid;
-    } else if (nums[right] < nums[mid]) {
+    } else {
       left = mid + 1;
     }
   }
