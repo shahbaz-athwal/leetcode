@@ -60,10 +60,8 @@ function findMin(nums: number[]): number {
 
   while (right > left) {
     const mid = left + Math.floor((right - left) / 2);
-    if (nums[mid] < nums[mid + 1] && nums[mid] < nums[mid - 1]) {
-      return nums[mid];
-    } else if (nums[right] > nums[mid]) {
-      right = mid - 1;
+    if (nums[right] > nums[mid]) {
+      right = mid;
     } else if (nums[right] < nums[mid]) {
       left = mid + 1;
     }
