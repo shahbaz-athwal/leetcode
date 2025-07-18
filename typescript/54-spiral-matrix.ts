@@ -49,7 +49,9 @@ function spiralOrder(matrix: number[][]): number[] {
 
   while (left <= right && top <= bottom) {
     // top-left: left--->right then top--
-    out = out.concat(matrix[top].slice(left, right + 1));
+    for (let j = left; j <= right; j++) {
+      out.push(matrix[top][j]);
+    }
     top++;
 
     // top-right: top---->bottom then right--
@@ -60,7 +62,9 @@ function spiralOrder(matrix: number[][]): number[] {
 
     // bottom-right: right--->left then bottom--
     if (top <= bottom) {
-      out = out.concat(matrix[bottom].reverse().slice(left + 1, right + 2));
+      for (let j = right; j >= left; j--) {
+        out.push(matrix[bottom][j]);
+      }
       bottom--;
     }
 
