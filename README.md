@@ -9,7 +9,7 @@
 - [x] 53: [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) – Easy
 - [x] 152: [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) – Medium 🔴
 - [x] 54: [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) – Medium
-- [ ] 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/) – Medium
+- [x] 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/) – Medium
 - [ ] 73: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) – Medium
 - [ ] 33: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) – Medium
 - [ ] 209: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) – Medium
