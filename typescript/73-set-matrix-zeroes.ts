@@ -95,4 +95,73 @@ function setZeroes(matrix: number[][]): void {
   }
 }
 
+function setZeroes2(matrix: number[][]): void {
+  const m = matrix.length;
+  const n = matrix[0].length;
+
+  let firstRowHasZero = false;
+  let firstColHasZero = false;
+
+  // Step 1: Check if the first row needs to be zeroed
+  for (let j = 0; j < n; j++) {
+    if (matrix[0][j] === 0) {
+      firstRowHasZero = true;
+      break;
+    }
+  }
+
+  // Step 1: Check if the first column needs to be zeroed
+  for (let i = 0; i < m; i++) {
+    if (matrix[i][0] === 0) {
+      firstColHasZero = true;
+      break;
+    }
+  }
+
+  // Step 2: Use the first row and column as markers for the rest of the matrix
+  // Iterate from (1,1) to (m-1, n-1)
+  for (let i = 1; i < m; i++) {
+    for (let j = 1; j < n; j++) {
+      if (matrix[i][j] === 0) {
+        matrix[i][0] = 0; // Mark corresponding row
+        matrix[0][j] = 0; // Mark corresponding column
+      }
+    }
+  }
+
+  // Step 3: Zero out rows based on markers in the first column
+  // Iterate from row 1 to m-1
+  for (let i = 1; i < m; i++) {
+    if (matrix[i][0] === 0) {
+      for (let j = 0; j < n; j++) {
+        matrix[i][j] = 0;
+      }
+    }
+  }
+
+  // Step 3: Zero out columns based on markers in the first row
+  // Iterate from column 1 to n-1
+  for (let j = 1; j < n; j++) {
+    if (matrix[0][j] === 0) {
+      for (let i = 0; i < m; i++) {
+        matrix[i][j] = 0;
+      }
+    }
+  }
+
+  // Step 4: Zero out the first row if it originally had a zero
+  if (firstRowHasZero) {
+    for (let j = 0; j < n; j++) {
+      matrix[0][j] = 0;
+    }
+  }
+
+  // Step 4: Zero out the first column if it originally had a zero
+  if (firstColHasZero) {
+    for (let i = 0; i < m; i++) {
+      matrix[i][0] = 0;
+    }
+  }
+}
+
 // @lc code=end
