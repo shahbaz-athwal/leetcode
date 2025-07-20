@@ -51,9 +51,8 @@ Output: [
 */
 
 // @lc code=begin
-
 // O(m*n)
-function setZeroes(matrix: number[][]): void {
+function setZeroes1(matrix: number[][]): void {
   const copy = structuredClone(matrix);
   for (let m = 0; m < matrix.length; m++) {
     for (let n = 0; n < matrix[0].length; n++) {
@@ -67,6 +66,31 @@ function setZeroes(matrix: number[][]): void {
           matrix[i][n] = 0;
         }
       }
+    }
+  }
+}
+
+function setZeroes(matrix: number[][]): void {
+  const n = matrix[0].length;
+  const m = matrix.length;
+  let zeroRow = new Set<number>();
+  let zeroCol = new Set<number>();
+
+  for (let k = 0; k < m; k++) {
+    for (let j = 0; j < n; j++) {
+      if (matrix[k][j] === 0) {
+        zeroRow.add(k);
+        zeroCol.add(j);
+      }
+    }
+  }
+
+  for (const r of zeroRow) {
+    matrix[r] = new Array(n).fill(0);
+  }
+  for (let i = 0; i < m; i++) {
+    for (const c of zeroCol) {
+      matrix[i][c] = 0;
     }
   }
 }
