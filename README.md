@@ -36,7 +36,7 @@
 ## 3. Two Pointers & Sliding Window
 
 - [x] 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) – Medium
-- [ ] 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) – Medium
+- [x] 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) – Medium
 - [ ] 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) – Hard
 - [ ] 209: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) – Medium
 - [ ] 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) – Medium
