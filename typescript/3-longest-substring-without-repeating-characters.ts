@@ -38,8 +38,6 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 */
 
-// @lc code=begin
-
 // original
 function lengthOfLongestSubstring1(s: string): number {
   let start = 0;
@@ -65,7 +63,7 @@ function lengthOfLongestSubstring1(s: string): number {
 }
 
 // optimal
-function lengthOfLongestSubstring(s: string): number {
+function lengthOfLongestSubstring2(s: string): number {
   let start = 0;
   let result = 0;
   let map = new Map<string, number>();
@@ -77,6 +75,25 @@ function lengthOfLongestSubstring(s: string): number {
       start = lastSeenIndex + 1;
     }
     map.set(curr, end);
+    result = Math.max(result, end - start + 1);
+  }
+  return result;
+}
+
+// @lc code=begin
+
+// best
+function lengthOfLongestSubstring(s: string): number {
+  let start = 0;
+  let result = 0;
+  let arr = new Array(123).fill(-1);
+  for (let end = 0; end < s.length; end++) {
+    const code = s.charCodeAt(end);
+
+    if (arr[code] >= start) {
+      start = arr[code] + 1;
+    }
+    arr[code] = end;
     result = Math.max(result, end - start + 1);
   }
   return result;
