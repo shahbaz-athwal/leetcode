@@ -12,8 +12,8 @@
 - [x] 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/) – Medium
 - [x] 73: [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) – Medium
 - [x] 33: [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) – Medium
-- [ ] 209: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) – Medium
-- [ ] 15: [3Sum](https://leetcode.com/problems/3sum/) – Medium
+- [x] 209: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) – Medium
+- [x] 15: [3Sum](https://leetcode.com/problems/3sum/) – Medium 🔴
 - [x] 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) – Medium
 - [ ] 36: [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) – Medium
 - [ ] 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) – Medium
