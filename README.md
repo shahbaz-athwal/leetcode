@@ -15,7 +15,7 @@
 - [x] 209: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) – Medium
 - [x] 15: [3Sum](https://leetcode.com/problems/3sum/) – Medium 🔴
 - [x] 11: [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) – Medium
-- [ ] 36: [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) – Medium
+- [x] 36: [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) – Medium
 - [ ] 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) – Medium
 - [ ] 347: [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) – Medium
 - [ ] 75: [Sort Colors](https://leetcode.com/problems/sort-colors/) – Medium
