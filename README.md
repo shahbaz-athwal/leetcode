@@ -18,7 +18,7 @@
 - [x] 36: [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) – Medium
 - [x] 49: [Group Anagrams](https://leetcode.com/problems/group-anagrams/) – Medium
 - [x] 347: [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) – Medium
-- [ ] 75: [Sort Colors](https://leetcode.com/problems/sort-colors/) – Medium
+- [x] 75: [Sort Colors](https://leetcode.com/problems/sort-colors/) – Medium
 - [x] 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) – Hard
 - [ ] 560: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) – Medium
 - [ ] 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) – Hard
