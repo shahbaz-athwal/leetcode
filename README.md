@@ -21,7 +21,7 @@
 - [x] 75: [Sort Colors](https://leetcode.com/problems/sort-colors/) – Medium
 - [x] 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) – Hard
 - [x] 560: [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) – Medium 🔴
-- [ ] 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) – Hard
+- [x] 84: [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) – Hard
 - [ ] 239: [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) – Hard
 
 ## 2. Binary Search
