@@ -50,7 +50,7 @@
 - [ ] 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) – Medium
 - [ ] 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) – Easy
 - [ ] 739: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) – Medium
-- [ ] 496: [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) – Easy
+- [x] 496: [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) – Easy
 
 ## 5. Linked List
 
