@@ -2,9 +2,7 @@
 alwaysApply: true
 ---
 
-# LeetCode Practice Workspace Rules
-
-This workspace is dedicated to LeetCode practice and problem-solving exercises.
+This workspace is dedicated to LeetCode practice.
 
 ## Core Rules
 
@@ -29,10 +27,5 @@ This workspace is dedicated to LeetCode practice and problem-solving exercises.
 - Writing full implementations without user request
 - Giving away the core algorithm or approach
 - Providing ready-to-copy code blocks for the main solution
-
-Remember: The goal is to help you learn and develop problem-solving skills, not to solve problems for you.
-description:
-globs:
-alwaysApply: false
 
 ---
