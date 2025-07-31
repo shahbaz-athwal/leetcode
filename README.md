@@ -39,9 +39,8 @@
 - [x] 3: [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) – Medium
 - [x] 76: [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) – Hard
 - [x] 209: [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) – Medium
-- [ ] 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) – Medium
+- [x] 567: [Permutation in String](https://leetcode.com/problems/permutation-in-string/) – Medium
 - [ ] 424: [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) – Medium
-- Sliding Window Maximum – see Arrays
 
 ## 4. Stacks & Queues
 
