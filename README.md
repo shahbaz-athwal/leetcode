@@ -1,4 +1,6 @@
-# Striver's SDE Sheet
+## Roadmap
+
+<img height="500" src="roadmap.png" alt="Roadmap" />
 
 ## 1. Arrays
 
