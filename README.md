@@ -46,7 +46,7 @@
 
 ## 4. Stacks & Queues
 
-- [ ] 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) – Easy
+- [x] 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) – Easy
 - [ ] 155: [Min Stack](https://leetcode.com/problems/min-stack/) – Easy
 - [ ] 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) – Medium
 - [ ] 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) – Easy
