@@ -48,7 +48,7 @@
 
 - [x] 20: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) – Easy
 - [x] 155: [Min Stack](https://leetcode.com/problems/min-stack/) – Easy
-- [ ] 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) – Medium
+- [x] 150: [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) – Medium
 - [ ] 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) – Easy
 - [ ] 739: [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) – Medium
 - [x] 496: [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) – Easy
