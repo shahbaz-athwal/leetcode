@@ -64,7 +64,7 @@
 - [x] 23: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) – Hard
 - [x] 143: [Reorder List](https://leetcode.com/problems/reorder-list/) – Medium
 - [ ] 138: [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) – Medium
-- [ ] 160: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) – Easy
+- [x] 160: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) – Easy
 
 ## 6. Trees
 
