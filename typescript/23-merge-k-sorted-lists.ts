@@ -59,7 +59,43 @@ class ListNode {
 
 // @lc code=begin
 
-function mergeKLists(lists: (ListNode | null)[]): ListNode | null {}
+function mergeKLists(lists: (ListNode | null)[]): ListNode | null {
+  if (lists.length === 0) return null;
+  if (lists.length === 1) return lists[0];
+
+  const mergedLists: (ListNode | null)[] = [];
+
+  for (let i = 0; i < lists.length; i += 2) {
+    const l1 = lists[i];
+    const l2 = i + 1 < lists.length ? lists[i + 1] : null;
+    mergedLists.push(merge(l1, l2));
+  }
+
+  return mergeKLists(mergedLists);
+}
+
+function merge(
+  list1: ListNode | null,
+  list2: ListNode | null
+): ListNode | null {
+  let dummy = new ListNode();
+  let out = dummy;
+
+  while (list1 && list2) {
+    if (list1.val > list2.val) {
+      out.next = list2;
+      list2 = list2.next;
+    } else {
+      out.next = list1;
+      list1 = list1.next;
+    }
+    out = out.next;
+  }
+  if (list1) out.next = list1;
+  else out.next = list2;
+
+  return dummy.next;
+}
 
 // @lc code=end
 

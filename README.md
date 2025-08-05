@@ -55,13 +55,13 @@
 
 ## 5. Linked List
 
-- [ ] 206: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) – Easy
+- [x] 206: [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) – Easy
 - [x] 21: [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) – Easy
 - [x] 83: [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) – Easy
 - [x] 141: [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) – Easy
 - [x] 19: [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) – Medium
 - [x] 328: [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) – Medium
-- [ ] 23: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) – Hard
+- [x] 23: [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) – Hard
 - [ ] 143: [Reorder List](https://leetcode.com/problems/reorder-list/) – Medium
 - [ ] 138: [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) – Medium
 - [ ] 160: [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) – Easy
