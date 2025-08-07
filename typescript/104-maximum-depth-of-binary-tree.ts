@@ -45,8 +45,6 @@ class TreeNode {
 
 function maxDepthDFS(root: TreeNode | null): number {
   if (root === null) return 0;
-  if (!root.left && !root.right) return 1;
-
   return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
 }
 
