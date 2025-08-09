@@ -73,7 +73,7 @@
 - [x] 101: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) – Easy 🔴
 - [x] 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) – Medium
 - [x] 108: [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) – Easy
-- [ ] 110: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) – Easy
+- [x] 110: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) – Easy 🔴
 - [ ] 230: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) – Medium
 - [ ] 236: [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) – Medium
 - [ ] 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) – Hard
