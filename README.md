@@ -71,7 +71,7 @@
 - [x] 104: [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) – Easy
 - [x] 98: [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) – Medium
 - [x] 101: [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) – Easy 🔴
-- [ ] 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) – Medium
+- [x] 102: [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) – Medium
 - [x] 108: [Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) – Easy
 - [ ] 110: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) – Easy
 - [ ] 230: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) – Medium
