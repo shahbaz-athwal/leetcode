@@ -76,7 +76,7 @@
 - [x] 110: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) – Easy 🔴
 - [x] 230: [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) – Medium
 - [x] 236: [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) – Medium 🔴
-- [ ] 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) – Hard
+- [x] 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) – Hard 🔴
 - [ ] 106: [Construct Binary Tree from Inorder & Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) – Medium
 - [ ] 110: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) – Easy
 
