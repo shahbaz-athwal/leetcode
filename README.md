@@ -78,8 +78,7 @@
 - [x] 236: [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) – Medium 🔴
 - [x] 297: [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) – Hard 🔴
 - [x] 105: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) – Medium 🔴
-- [ ] 106: [Construct Binary Tree from Inorder & Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) – Medium
-- [ ] 110: [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) – Easy
+- [x] 106: [Construct Binary Tree from Inorder & Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) – Medium 🔴
 
 ## 7. Graphs
 
