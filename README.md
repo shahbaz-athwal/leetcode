@@ -80,7 +80,17 @@
 - [x] 105: [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) – Medium 🔴
 - [x] 106: [Construct Binary Tree from Inorder & Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) – Medium 🔴
 
-## 7. Graphs
+## 7. Tries
+
+- [x] 208: [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) – Medium
+- [ ] 211: [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) – Medium
+- [ ] 212: [Word Search II](https://leetcode.com/problems/word-search-ii/) – Hard
+- [ ] 421: [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) – Medium
+- [ ] 648: [Replace Words](https://leetcode.com/problems/replace-words/) – Medium
+- [ ] 676: [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/) – Medium
+- [ ] 720: [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/) – Easy
+
+## 8. Graphs
 
 - [ ] 200: [Number of Islands](https://leetcode.com/problems/number-of-islands/) – Medium
 - [ ] 207: [Course Schedule](https://leetcode.com/problems/course-schedule/) – Medium
@@ -92,14 +102,14 @@
 - [ ] 743: [Network Delay Time](https://leetcode.com/problems/network-delay-time/) – Medium
 - [ ] 787: [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) – Medium
 
-## 8. Heaps & Maps
+## 9. Heaps & Maps
 
 - [ ] 347: [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) – Medium
 - [ ] 215: [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) – Medium
 - [ ] 692: [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) – Medium
 - [ ] 352: [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) – Hard
 
-## 9. Backtracking
+## 10. Backtracking
 
 - [ ] 78: [Subsets](https://leetcode.com/problems/subsets/) – Medium
 - [ ] 46: [Permutations](https://leetcode.com/problems/permutations/) – Medium
@@ -109,7 +119,7 @@
 - [ ] 17: [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) – Medium
 - [ ] 22: [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) – Medium
 
-## 10. Bit Manipulation
+## 11. Bit Manipulation
 
 - [ ] 136: [Single Number](https://leetcode.com/problems/single-number/) – Easy
 - [ ] 191: [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) – Easy
@@ -117,14 +127,14 @@
 - [ ] 231: [Power of Two](https://leetcode.com/problems/power-of-two/) – Easy
 - [ ] 190: [Reverse Bits](https://leetcode.com/problems/reverse-bits/) – Easy
 
-## 11. Greedy
+## 12. Greedy
 
 - [ ] 55: [Jump Game](https://leetcode.com/problems/jump-game/) – Medium
 - [ ] 134: [Gas Station](https://leetcode.com/problems/gas-station/) – Medium
 - [ ] 135: [Candy](https://leetcode.com/problems/candy/) – Hard
 - [ ] 452: [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) – Medium
 
-## 12. Dynamic Programming
+## 13. Dynamic Programming
 
 - [ ] 70: [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) – Easy
 - [ ] 198: [House Robber](https://leetcode.com/problems/house-robber/) – Easy
@@ -138,19 +148,19 @@
 - [ ] 1143: [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) – Medium
 - [ ] 72: [Edit Distance](https://leetcode.com/problems/edit-distance/) – Hard
 
-## 13. Intervals
+## 14. Intervals
 
 - [ ] 56: [Merge Intervals](https://leetcode.com/problems/merge-intervals/) – Medium
 - [ ] 435: [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) – Medium
 - [ ] 253: [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) – Medium
 
-## 14. Math & Geometry
+## 15. Math & Geometry
 
 - [ ] 50: [Pow(x, n)](https://leetcode.com/problems/powx-n/) – Medium
 - [ ] 7: [Reverse Integer](https://leetcode.com/problems/reverse-integer/) – Easy
 - [ ] 9: [Palindrome Number](https://leetcode.com/problems/palindrome-number/) – Easy
 
-## 15. Design
+## 16. Design
 
 - [ ] 146: [LRU Cache](https://leetcode.com/problems/lru-cache/) – Medium
 - [ ] 295: [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) – Hard
