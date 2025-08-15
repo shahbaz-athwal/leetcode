@@ -47,11 +47,11 @@ trie.search("app");     // return True
 
 // @lc code=begin
 class TrieNode {
-  children: TrieNode[];
+  children: Map<string, TrieNode>;
   isEnd: boolean;
 
   constructor() {
-    this.children = new Array(26).fill(null);
+    this.children = new Map();
     this.isEnd = false;
   }
 }
@@ -63,33 +63,30 @@ class Trie {
   }
 
   insert(word: string): void {
-    let curr = this.root;
+    let node = this.root;
     for (const c of word) {
-      const i = c.charCodeAt(0) - 97;
-      if (!curr.children[i]) {
-        curr.children[i] = new TrieNode();
+      if (!node.children.has(c)) {
+        node.children.set(c, new TrieNode());
       }
-      curr = curr.children[i];
+      node = node.children.get(c)!;
     }
-    curr.isEnd = true;
+    node.isEnd = true;
   }
 
   search(word: string): boolean {
-    let curr = this.root;
+    let node = this.root;
     for (const c of word) {
-      const i = c.charCodeAt(0) - 97;
-      if (!curr.children[i]) return false;
-      curr = curr.children[i];
+      if (!node.children.has(c)) return false;
+      node = node.children.get(c)!;
     }
-    return curr.isEnd;
+    return node.isEnd;
   }
 
   startsWith(prefix: string): boolean {
-    let curr = this.root;
+    let node = this.root;
     for (const c of prefix) {
-      const i = c.charCodeAt(0) - 97;
-      if (!curr.children[i]) return false;
-      curr = curr.children[i];
+      if (!node.children.has(c)) return false;
+      node = node.children.get(c)!;
     }
     return true;
   }
