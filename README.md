@@ -83,7 +83,7 @@
 ## 7. Tries
 
 - [x] 208: [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) – Medium
-- [ ] 211: [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) – Medium
+- [x] 211: [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) – Medium
 - [ ] 212: [Word Search II](https://leetcode.com/problems/word-search-ii/) – Hard
 - [ ] 421: [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) – Medium
 - [ ] 648: [Replace Words](https://leetcode.com/problems/replace-words/) – Medium
