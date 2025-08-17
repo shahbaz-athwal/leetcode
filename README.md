@@ -92,7 +92,7 @@
 
 ## 8. Graphs
 
-- [ ] 200: [Number of Islands](https://leetcode.com/problems/number-of-islands/) – Medium
+- [x] 200: [Number of Islands](https://leetcode.com/problems/number-of-islands/) – Medium 🔴
 - [ ] 207: [Course Schedule](https://leetcode.com/problems/course-schedule/) – Medium
 - [ ] 210: [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) – Medium
 - [ ] 133: [Clone Graph](https://leetcode.com/problems/clone-graph/) – Medium
