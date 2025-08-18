@@ -165,3 +165,28 @@
 - [ ] 146: [LRU Cache](https://leetcode.com/problems/lru-cache/) – Medium
 - [ ] 295: [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) – Hard
 - [ ] 155: [Min Stack](https://leetcode.com/problems/min-stack/) – Easy
+- [ ] 232: [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) – Easy
+- [ ] 225: [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) – Easy
+- [ ] 460: [LFU Cache](https://leetcode.com/problems/lfu-cache/) – Hard
+- [ ] 355: [Design Twitter](https://leetcode.com/problems/design-twitter/) – Medium
+- [ ] 380: [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) – Medium
+- [ ] 381: [Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) – Hard
+- [ ] 706: [Design HashMap](https://leetcode.com/problems/design-hashmap/) – Easy
+- [ ] 705: [Design HashSet](https://leetcode.com/problems/design-hashset/) – Easy
+- [ ] 622: [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) – Medium
+- [ ] 641: [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) – Medium
+- [ ] 173: [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) – Medium
+- [ ] 284: [Peeking Iterator](https://leetcode.com/problems/peeking-iterator/) – Medium
+- [ ] 341: [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) – Medium
+- [ ] 251: [Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/) – Medium
+- [ ] 588: [Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/) – Hard
+- [ ] 348: [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) – Medium
+- [ ] 359: [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) – Easy
+- [ ] 362: [Design Hit Counter](https://leetcode.com/problems/design-hit-counter/) – Medium
+- [ ] 895: [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) – Hard
+- [ ] 716: [Max Stack](https://leetcode.com/problems/max-stack/) – Easy
+- [ ] 1244: [Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/) – Medium
+- [ ] 1348: [Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/) – Medium
+- [ ] 1656: [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) – Easy
+- [ ] 432: [All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) – Hard
+- [ ] 1381: [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) – Medium
