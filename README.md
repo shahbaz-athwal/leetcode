@@ -95,7 +95,7 @@
 - [x] 200: [Number of Islands](https://leetcode.com/problems/number-of-islands/) – Medium 🔴
 - [x] 207: [Course Schedule](https://leetcode.com/problems/course-schedule/) – Medium 🔴
 - [x] 210: [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) – Medium
-- [ ] 133: [Clone Graph](https://leetcode.com/problems/clone-graph/) – Medium
+- [x] 133: [Clone Graph](https://leetcode.com/problems/clone-graph/) – Medium
 - [ ] 127: [Word Ladder](https://leetcode.com/problems/word-ladder/) – Medium
 - [ ] 269: [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) – Hard
 - [ ] 417: [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) – Medium
